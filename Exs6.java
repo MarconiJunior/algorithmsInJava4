@@ -13,7 +13,7 @@ public class projeto {
     int idadeF = 0;
      
 
-    for (int i=0; i<=5; i++) {
+    for (int i=0; i<=20; i++) {
     System.out.println("Dígite o seu sexo || 1 para masculino e 2 para feminino");
       sexo = scan.nextInt();
     System.out.println("Digite sua idade:");
